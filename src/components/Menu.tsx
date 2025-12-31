@@ -13,7 +13,7 @@ export function Menu() {
   return (
     <Sheet >
       <SheetTrigger asChild className="md:hidden ">
-        <Button variant="ghost" size="lg">
+        <Button variant="ghost" size="icon-lg">
         <MenuIcon/>
         </Button>
         </SheetTrigger>
