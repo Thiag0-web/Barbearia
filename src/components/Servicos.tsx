@@ -5,8 +5,8 @@ import Beard from "@/img/icon beard.png"
 
 export function Servicos() {
   return (
-    <section className="flex flex-col items-center ">
-      <div className="flex items-center justify-center mt-10 mb-20 text-4xl">
+    <section className="flex flex-col items-center" id="servico">
+      <div className="flex items-center justify-center mt-10 mb-20 text-4xl font-abril">
         <h2 className="font-abril">SERVIÇOS</h2>
       </div>
 
@@ -16,7 +16,7 @@ export function Servicos() {
           <h3 className="font-abril text-lg tracking-wide mb-3">
             HAIRCUT & BEARD TRIM
           </h3>
-          <p className="text-sm text-neutral-300 leading-relaxed">
+          <p className="text-sm text-neutral-300 leading-relaxed font-inter">
             Duis porta, ligula rhoncuseuism od pretium, nisi tellus eleifend
             odio, luctus viverra sem.
           </p>
