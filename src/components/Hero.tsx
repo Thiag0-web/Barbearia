@@ -1,7 +1,7 @@
 import Logo from "@/img/Logo.png";
 import Fundo from "@/img/Fundo.png";
 import { ButtonCorte } from "./ButtonCorte";
-import JoseNeto from "@/img/jose_neto.png";
+
 
 export function Hero() {
   return (
